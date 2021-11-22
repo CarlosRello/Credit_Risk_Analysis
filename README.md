@@ -1,7 +1,7 @@
 # Credit Risk
 
 ## Overview
-We are running an analysis for LendingClub needs to predict the credit card risk for futures leads and . 
+We are running an analysis for LendingClub
 
 ## Results
 - Oversampling
